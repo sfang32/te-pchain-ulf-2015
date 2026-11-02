@@ -12,7 +12,13 @@ authors:
     affiliation: "National Space Science Center, Chinese Academy of Sciences"
 version: v1.0.0
 date-released: "2026-11-02"
+doi: 10.5281/zenodo.23873954
+repository-code: "https://github.com/sfang32/te-pchain-ulf-2015"
 license: MIT
+related-identifiers:
+  - identifier: 10.57760/sciencedb.0183j
+    type: dataset
+    relation: references
 keywords:
   - transfer entropy
   - ULF waves
