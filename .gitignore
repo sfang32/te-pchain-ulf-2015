@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Data and results (redistributed via ScienceDB, not in this repo)
+data/
+results/
+*.csv.gz
+*.nc
+*.cdf
+
+# Java / JIDT jar (download from https://github.com/jlizier/jidt)
+*.jar
+
+# Outputs
+*.png.tmp
+*.pdf.tmp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp

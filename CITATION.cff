@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Analysis software: transfer entropy from solar wind to ground ULF Pc5 wave power across the Chinese Meridian chain (2015)"
+message: "If you use this software, please cite it and the companion data deposit (DOI: 10.57760/sciencedb.0183j)."
+authors:
+  - family-names: Fang
+    given-names: Shaofeng
+    email: fangsf@nssc.ac.cn
+    affiliation: "National Space Science Center, Chinese Academy of Sciences"
+  - family-names: Zou
+    given-names: Ziming
+    email: mzou@nssc.ac.cn
+    affiliation: "National Space Science Center, Chinese Academy of Sciences"
+version: v1.0.0
+date-released: "2026-11-02"
+license: MIT
+keywords:
+  - transfer entropy
+  - ULF waves
+  - Pc5
+  - solar wind
+  - geomagnetic
+  - Chinese Meridian Project
+abstract: "Complete analysis pipeline (data preparation, transfer-entropy estimation with JIDT, surrogate significance, robustness and latitude analyses, figure generation) for the manuscript submitted to Journal of Atmospheric and Solar-Terrestrial Physics (JASTP-D-26-00601)."

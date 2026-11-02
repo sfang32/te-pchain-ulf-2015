@@ -1,0 +1,8 @@
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+jpype1>=1.4
+infomeasure>=0.4
+spiceypy>=6.0
+cartopy>=0.22
